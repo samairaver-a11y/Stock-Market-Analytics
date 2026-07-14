@@ -23,4 +23,4 @@ A Python project that analyzes historical stock market data using Yahoo Finance.
 Apple (AAPL)
 
 ## Author
-Shivani
+Samaira
